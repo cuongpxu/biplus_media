@@ -1,0 +1,22 @@
+name: biplus_audio
+description: A module support audio functions such as listen, pause, stop, shuffled, repeate, etc.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ">=2.13.0 <3.0.0"
+
+dependencies:
+  audio_service: ^0.18.3
+  dart_des: ^1.0.0
+  flutter:
+    sdk: flutter
+  hive: ^2.0.5
+  hive_flutter: ^1.1.0
+  get_it: ^7.2.0
+  just_audio: ^0.9.18
+  rxdart: ^0.27.3
+
+dev_dependencies:
+  test: ^1.17.11
+  very_good_analysis: ^2.3.0

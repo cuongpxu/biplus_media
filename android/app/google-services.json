@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985851315257",
+    "project_id": "biplus-media",
+    "storage_bucket": "biplus-media.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985851315257:android:2611cde63e6598cf32b9e8",
+        "android_client_info": {
+          "package_name": "com.biplus.media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985851315257-utjf58psgotguh3v3qrmujj3c6lp81l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3uFVIk0jg35Ue_ADEYTLolyGZnj3Vv1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985851315257-utjf58psgotguh3v3qrmujj3c6lp81l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
